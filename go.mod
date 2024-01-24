@@ -5,7 +5,7 @@ go 1.21.6
 require (
 	github.com/go-openapi/errors v0.21.0
 	github.com/go-openapi/loads v0.21.5
-	github.com/go-openapi/runtime v0.26.2
+	github.com/go-openapi/runtime v0.27.0
 	github.com/go-openapi/spec v0.20.14
 	github.com/go-openapi/strfmt v0.22.0
 	github.com/go-openapi/swag v0.22.8
@@ -23,12 +23,14 @@ require (
 	github.com/go-openapi/jsonreference v0.20.4 // indirect
 	github.com/go-openapi/validate v0.22.6 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
-	github.com/google/uuid v1.5.0 // indirect
+	github.com/google/uuid v1.6.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
+	github.com/scraly/learning-go-by-examples/go-rest-api v0.0.0-20230716184820-63bc84c0f905 // indirect
 	go.mongodb.org/mongo-driver v1.13.1 // indirect
+	golang.org/x/sync v0.6.0 // indirect
 	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
