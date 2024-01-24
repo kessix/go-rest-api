@@ -5,12 +5,12 @@ import (
 	"log"
 	"net/http"
 
-	"https://github.com/kessix/go-rest-api/pkg/swagger/server/restapi"
+	"github.com/kessix/go-rest-api/pkg/swagger/server/restapi"
 
 	"github.com/go-openapi/loads"
 	"github.com/go-openapi/runtime/middleware"
 
-	"https://github.com/kessix/go-rest-api/go-rest-api/pkg/swagger/server/restapi/operations"
+	"github.com/kessix/go-rest-api/go-rest-api/pkg/swagger/server/restapi/operations"
 )
 
 // func main() {
