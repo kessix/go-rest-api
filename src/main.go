@@ -76,6 +76,7 @@ func GetGopherByName(gopher operations.GetGopherNameParams) middleware.Responder
 	} else {
 		//by default we return harry gopher
 		URL = "https://raw.githubusercontent.com/scraly/gophers/main/harry-gopher.png"
+		fmt.Println("by default we return harry gopher...")
 	}
 
 	response, err := http.Get(URL)
