@@ -1,4 +1,4 @@
-module github.com/kessix/go-rest-api
+module go
 
 go 1.21.6
 
@@ -28,7 +28,6 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
-	github.com/scraly/learning-go-by-examples/go-rest-api v0.0.0-20230716184820-63bc84c0f905 // indirect
 	go.mongodb.org/mongo-driver v1.13.1 // indirect
 	golang.org/x/sync v0.6.0 // indirect
 	golang.org/x/sys v0.16.0 // indirect
